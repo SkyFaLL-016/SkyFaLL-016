@@ -77,6 +77,6 @@ A stock trading simulation application developed as part of Harvard's CS50x cour
 **Connect**
 
 [Discord](https://discord.com/users/768697190452297740) ·
-[Telegram](//https://t.me/skyfall_016)
+[Telegram](https://t.me/skyfall_016)
 
 </div>
