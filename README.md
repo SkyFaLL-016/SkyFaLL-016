@@ -15,9 +15,7 @@ Developing foundational knowledge in computer science and programming.
 
 ## About
 
-I am interested in exploring diverse areas of computing, ranging from software development and cybersecurity to artificial intelligence, robotics, and connected systems.
-
-My current focus is strengthening my programming fundamentals while gaining practical experience through personal projects and independent learning.
+I am an independent learner with an interest in computer science and its diverse applications. I am currently focused on strengthening my programming fundamentals and developing practical skills through personal projects and independent study.
 
 **Areas of interest**
 - Software and application development
@@ -26,7 +24,7 @@ My current focus is strengthening my programming fundamentals while gaining prac
 - Cybersecurity and computer systems
 - Robotics, embedded systems and IoT
 
-## Technical Skills
+## Technologies & Tools
 
 **Programming Languages**
 
