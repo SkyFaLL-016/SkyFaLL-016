@@ -1,12 +1,13 @@
+
 <div align="center">
 
 # SkyFaLL-016
 
 **Independent Learner**
 
-Developing foundational knowledge in computer science and programming.
+Exploring computer science, software development and backend engineering through practical projects and independent study.
 
-[Portfolio](https://sytharel.pythonanywhere.com/) ·
+[Portfolio](https://sytharel.onrender.com/) ·
 [Repositories](https://github.com/SkyFaLL-016?tab=repositories)
 
 </div>
@@ -15,9 +16,10 @@ Developing foundational knowledge in computer science and programming.
 
 ## About
 
-I am an independent learner with an interest in computer science and its diverse applications. I am currently focused on strengthening my programming fundamentals and developing practical skills through personal projects and independent study.
+I am an independent learner with an interest in computer science and its diverse applications. My current focus is on strengthening programming fundamentals, developing practical software solutions, and understanding the architecture behind modern web applications.
 
-**Areas of interest**
+**Areas of Interest**
+
 - Software and application development
 - Backend engineering and web technologies
 - Computer science fundamentals and algorithms
@@ -38,34 +40,61 @@ I am an independent learner with an interest in computer science and its diverse
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask" alt="HTML, CSS, Bootstrap, Flask" />
 </p>
 
-**Databases & Tools**
+**Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode,linux" alt="SQLite, Git, GitHub, VS Code, Linux" />
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres" alt="SQLite, PostgreSQL" />
+</p>
+
+**Development Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Git, GitHub, VS Code, Linux" />
 </p>
 
 ## Featured Projects
 
-### Personal Website
-A personal website developed to explore frontend development, responsive design, and backend integration.
+### Daymark
 
-**Technologies:** HTML, CSS, JavaScript, Python, Flask
+A productivity platform that brings task management, project organization, scheduling and note-taking into a unified workspace.
 
-[Visit Website](https://sytharel.pythonanywhere.com/)
+**Technologies:** Python, Flask, SQLAlchemy, HTML, CSS, JavaScript
 
+[Visit Website](https://daymark.runs-at.dev/)
 
-### Finance
-A stock trading simulation application developed as part of Harvard's CS50x coursework. Explores backend application development, authentication, database operations, and financial data integration.
+### OpenWhen
 
-**Technologies:** Python, Flask, SQLite, HTML, CSS
+A web application for writing, scheduling and securely sharing digital letters that become accessible at a designated future date and time.
+
+**Technologies:** Python, Flask, PostgreSQL, HTML, CSS, JavaScript
+
+[Visit Website](https://openwhen.lives-on.dev/)
+
+### SAMS — Student Application Management System
+
+A web platform for students to submit and track academic applications, and for administrators to review and manage admission decisions.
+
+**Technologies:** Python, Flask, SQLite, HTML, CSS, JavaScript
+
+[Visit Website](https://skyfall016.pythonanywhere.com/)
+
+### Personal Portfolio
+
+A personal portfolio website showcasing my projects, technical interests and development journey, with a database-backed contact system.
+
+**Technologies:** Python, Flask, PostgreSQL, HTML, CSS, JavaScript
+
+[Visit Website](https://sytharel.onrender.com/)
 
 ## Current Learning
 
 - Computer science fundamentals through CS50x
 - C and Python programming
 - JavaScript and asynchronous programming
-- Backend development with Flask
+- Backend engineering and application architecture
+- Authentication and web application security
 - Relational databases and SQL
+- Cloud deployment and application hosting
 - Data structures and algorithms
 
 ---
